@@ -17,12 +17,12 @@ PBAE: Pu'Shing Bhu'Tons Anareta Ego : [0x79eb6f0fac2b10b452c03880eb72c749ff29c14
 
 
 ## License
-*Zeemz: The Versipisces Secret* is Copyright (c) 2018 Monique Finley. All Rights Reserved. <br />
-*The Pu'Shing Bhu'Tons Series* is Copyright (c) 2018 Monique Finley. All Rights Reserved. <br />
+*Zeemz: The Versipisces Secret* is Copyright (c) 2020 Monique Finley. All Rights Reserved. <br />
+*The Pu'Shing Bhu'Tons Series* is Copyright (c) 2020 Monique Finley. All Rights Reserved. <br />
 
 ## 3rd Party Licenses
-CryptoZombies is Copyright (c) 2018 Loom Network. All Rights Reserved.<br />
-CryptoKitties is Copyright (c) 2018 Axiom Zen. All Rights Reserved.<br />
+CryptoZombies is Copyright (c) 2020 Loom Network. All Rights Reserved.<br />
+CryptoKitties is Copyright (c) 2020 Axiom Zen. All Rights Reserved.<br />
 
 TODO
 - Add ZeemzCore source code

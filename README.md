@@ -30,3 +30,5 @@ TODO
 - Add dependencies list 
 - Add build instructions (solidity, remix, etc).
 - Add Ethereum Testnet instructions
+- Integrate LoomSDK
+- Create Zeemz Portal: Kitty Vortex using Cadence for Flow (new blockchain by developers of CryptoKitties)

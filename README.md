@@ -17,6 +17,7 @@ PBAE: Pu'Shing Bhu'Tons Anareta Ego : [0x79eb6f0fac2b10b452c03880eb72c749ff29c14
 
 
 ## License
+*Zeemz: Pandemic Patch* is MIT licensed to encourage the development of solutions that fight Coronavirus.<br />
 *Zeemz: The Versipisces Secret* is Copyright (c) 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
 *The Pu'Shing Bhu'Tons 'Verse* is Copyright (c) 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
 *The Pu'Shing Bhu'Tons Series* is Copyright (c) 2020 Monique Finley. All Rights Reserved. <br />

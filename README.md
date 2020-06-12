@@ -15,6 +15,9 @@ PBTD: Pu'Shing Bhu'Tons Terra Damnata : [0x66617d37793c1a6beda3b433b501e60310f31
 PBIF: Pu'Shing Bhu'Tons Ignes Fatui : [0x88cef2ba2e715c7211cd204acb089d3e3131f27b](https://etherscan.io/token/0x88cef2ba2e715c7211cd204acb089d3e3131f27b)<br />
 PBAE: Pu'Shing Bhu'Tons Anareta Ego : [0x79eb6f0fac2b10b452c03880eb72c749ff29c147](https://etherscan.io/token/0x79eb6f0fac2b10b452c03880eb72c749ff29c147)<br />
 
+### TOKENS: LIVE ON TESTNET
+tPBV: the Pu'Shing Bhu'Tons Verse: RINKEBY [0xd63b36b60f816817207747469247b4b6a4f0766d](https://rinkeby.etherscan.io/token/0xd63b36b60f816817207747469247b4b6a4f0766d)
+tPBV: the Pu'Shing Bhu'Tons Verse: KOVAN [0xa64028030edf00bd412c10cde661b4cf0173ddf2](https://kovan.etherscan.io/token/0xa64028030edf00bd412c10cde661b4cf0173ddf2)<br />
 
 ## License
 *Zeemz: Pandemic Patch* is MIT licensed to encourage the development of solutions that fight Coronavirus.<br />
